@@ -60,7 +60,6 @@ Her core objective is to help the organization move from **"trust first"** to **
 <p>The common weakness is <strong>human trust and a lack of verification</strong>. Employees may trust people who appear legitimate, especially when they seem to have authority, a contractor badge, or an urgent reason for needing access.</p>
 <p>Social engineering exploits behaviors such as helpfulness, politeness, urgency, and the assumption that someone else has already verified the request.</p>
 <p>We need to encourage employees to <strong>verify before granting access, sharing information, opening links, or connecting unknown devices</strong>.</p>
-<p>---</p>
 </div>
 
 ---
@@ -91,7 +90,6 @@ Her core objective is to help the organization move from **"trust first"** to **
 <p>I would make it clear that employees are expected to challenge suspicious situations and that this is supported by management.</p>
 <p>We can provide simple scripts for politely questioning someone, regular awareness training, and clear procedures for verifying visitors and contractors.</p>
 <p>We should also reinforce that employees will not be penalized for raising a genuine security concern. This can help create a culture where verification is normal rather than confrontational.</p>
-<p>---</p>
 </div>
 
 ---
@@ -124,7 +122,6 @@ Her core objective is to help the organization move from **"trust first"** to **
 <p>I would say that there is room for improvement. While our current training covers general security awareness, we should make it more scenario-based and practical.</p>
 <p>I would introduce regular simulations for <strong>tailgating, impersonation, phishing, and suspicious devices</strong>, along with clear procedures for verification and escalation.</p>
 <p>This would help employees build confidence in handling real-world social engineering attempts.</p>
-<p>---</p>
 </div>
 
 ---
@@ -188,7 +185,6 @@ Her core objective is to help the organization move from **"trust first"** to **
 <li>Encourage <strong>blame-free reporting</strong>.</li>
 <li>Use simulation and incident data to <strong>continuously improve</strong> the security awareness program.</li>
 </ul>
-<p>---</p>
 </div>
 
 ---
