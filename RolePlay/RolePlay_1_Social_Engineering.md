@@ -45,7 +45,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 
 # 🎬 Role Play Conversation
 
-## 👩‍💼 Jennifer — Cybersecurity Consultant
+![Jennifer](https://img.shields.io/badge/Jennifer-Cybersecurity%20Consultant-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Cybersecurity Consultant
 
 > Hi Venkat. Thanks for taking the time to work through this with me.
 >
@@ -55,6 +57,8 @@ Her core objective is to help the organization move from **"trust first"** to **
 
 <div align="right">
 
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Awareness%20Lead-007ec6?style=for-the-badge)
+
 <h3>👨‍💻 Venkat Nishit — Security Awareness Lead</h3>
 
 <p>The common weakness is <strong>human trust and a lack of verification</strong>. Employees may trust people who appear legitimate, especially when they seem to have authority, a contractor badge, or an urgent reason for needing access.</p>
@@ -63,13 +67,17 @@ Her core objective is to help the organization move from **"trust first"** to **
 </div>
 
 ---
-## 👩‍💼 Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Cybersecurity%20Consultant-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Cybersecurity Consultant
 
 > If I showed up tomorrow wearing a contractor badge and carrying a clipboard, do you think anyone in your building would challenge me?
 
 <div align="right">
 
-<h3>👨‍💻 Venkat Nishit</h3>
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Awareness%20Lead-007ec6?style=for-the-badge)
+
+<h3>👨‍💻 Venkat Nishit — Security Awareness Lead</h3>
 
 <p>I would expect the employee to politely challenge the person and verify their authorization before allowing them access. They shouldn't assume someone is legitimate just because they have a contractor badge or appear to be in a hurry.</p>
 <p>The employee could ask for identification, verify the person's authorization with reception or the relevant team, and follow the company's visitor-access procedure.</p>
@@ -77,7 +85,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 </div>
 
 ---
-### 👩‍💼 Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Cybersecurity%20Consultant-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Cybersecurity Consultant
 
 > Exactly, you've nailed it. Building that "verify first" culture is key, but the reality is, social engineers exploit politeness and hesitation. Employees often avoid questioning someone for fear of seeming impolite or confrontational.
 >
@@ -85,7 +95,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 
 <div align="right">
 
-<h3>👨‍💻 Venkat Nishit</h3>
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Awareness%20Lead-007ec6?style=for-the-badge)
+
+<h3>👨‍💻 Venkat Nishit — Security Awareness Lead</h3>
 
 <p>I would make it clear that employees are expected to challenge suspicious situations and that this is supported by management.</p>
 <p>We can provide simple scripts for politely questioning someone, regular awareness training, and clear procedures for verifying visitors and contractors.</p>
@@ -93,7 +105,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 </div>
 
 ---
-## 👩‍💼 Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Cybersecurity%20Consultant-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Cybersecurity Consultant
 
 > You're absolutely on the right track. Empowering employees with scripts and clear procedures is a huge step. And making sure they know management has their back? That's critical.
 >
@@ -101,7 +115,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 
 <div align="right">
 
-<h3>👨‍💻 Venkat Nishit</h3>
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Awareness%20Lead-007ec6?style=for-the-badge)
+
+<h3>👨‍💻 Venkat Nishit — Security Awareness Lead</h3>
 
 <p>I would instruct the employee to remain calm and not allow the person through without proper verification.</p>
 <p>They should politely explain that access requires authorization and contact security, reception, or the appropriate manager to verify the person's identity and purpose.</p>
@@ -109,7 +125,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 </div>
 
 ---
-### 👩‍💼 Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Cybersecurity%20Consultant-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Cybersecurity Consultant
 
 > That's a solid approach. Staying calm and sticking to procedure is really important in these situations. And having escalation steps ensures employees know exactly what to do if things escalate.
 >
@@ -117,7 +135,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 
 <div align="right">
 
-<h3>👨‍💻 Venkat Nishit</h3>
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Awareness%20Lead-007ec6?style=for-the-badge)
+
+<h3>👨‍💻 Venkat Nishit — Security Awareness Lead</h3>
 
 <p>I would say that there is room for improvement. While our current training covers general security awareness, we should make it more scenario-based and practical.</p>
 <p>I would introduce regular simulations for <strong>tailgating, impersonation, phishing, and suspicious devices</strong>, along with clear procedures for verification and escalation.</p>
@@ -125,7 +145,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 </div>
 
 ---
-## 👩‍💼 Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Cybersecurity%20Consultant-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Cybersecurity Consultant
 
 > That's a fantastic idea! Scenario-based training and simulations make a huge difference because they let people practice in a safe environment.
 >
@@ -135,7 +157,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 
 <div align="right">
 
-<h3>👨‍💻 Venkat Nishit</h3>
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Awareness%20Lead-007ec6?style=for-the-badge)
+
+<h3>👨‍💻 Venkat Nishit — Security Awareness Lead</h3>
 
 <p>I would run these simulations <strong>quarterly</strong>, with additional targeted exercises when a new threat or incident emerges.</p>
 <p>This gives employees regular practice without creating training fatigue.</p>
@@ -143,7 +167,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 </div>
 
 ---
-### 👩‍💼 Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Cybersecurity%20Consultant-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Cybersecurity Consultant
 
 > Quarterly simulations are a great balance—frequent enough to stay sharp, but not overwhelming. Rotating scenarios keeps things fresh and covers all the bases.
 >
@@ -155,14 +181,18 @@ Her core objective is to help the organization move from **"trust first"** to **
 
 <div align="right">
 
-<h3>👨‍💻 Venkat Nishit</h3>
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Awareness%20Lead-007ec6?style=for-the-badge)
+
+<h3>👨‍💻 Venkat Nishit — Security Awareness Lead</h3>
 
 <p>I would also strengthen our security culture by introducing a simple <strong>"verify first" policy</strong>, regular security awareness reminders, and an easy way for employees to report suspicious activity without fear of blame.</p>
 <p>I'd track recurring issues from simulations and real incidents, then use those findings to continuously improve our policies and training.</p>
 </div>
 
 ---
-### 👩‍💼 Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Cybersecurity%20Consultant-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Cybersecurity Consultant
 
 > That's a great strategy! A "verify first" policy paired with ongoing reminders really normalizes secure behavior.
 >
@@ -174,7 +204,9 @@ Her core objective is to help the organization move from **"trust first"** to **
 
 <div align="right">
 
-<h3>👨‍💻 Venkat Nishit</h3>
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Awareness%20Lead-007ec6?style=for-the-badge)
+
+<h3>👨‍💻 Venkat Nishit — Security Awareness Lead</h3>
 
 <p>We're in a good place to wrap up. I'd summarize the key actions as:</p>
 <ul>
