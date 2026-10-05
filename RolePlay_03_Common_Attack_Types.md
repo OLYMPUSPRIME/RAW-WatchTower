@@ -1,17 +1,16 @@
-# Role Play 03 — Common Attack Types
+# 🎭 WATCHTOWER — Role Play 3: Common Attack Types
 
-![Cybersecurity](https://img.shields.io/badge/Topic-Cybersecurity-blue)
-![Role Play](https://img.shields.io/badge/Activity-Role%20Play-purple)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Project](https://img.shields.io/badge/Project-WATCHTOWER-6f42c1?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Topic-Common%20Attack%20Types-8A2BE2?style=for-the-badge)
+![Role Play](https://img.shields.io/badge/Role%20Play-3-2ea44f?style=for-the-badge)
+![Duration](https://img.shields.io/badge/Duration-10%20minutes-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Jennifer](https://img.shields.io/badge/Jennifer-Incident%20Response%20Strategist-ff69b4?style=for-the-badge)
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Operations%20Manager-007ec6?style=for-the-badge)
 
-## 📌 Overview
-
-**Role Play:** Common Attack Types  
-**Course:** Introduction to Cyber Security — Rick  
-**Role:** Security Operations Manager  
-**AI Character:** Jennifer — Incident Response Strategist  
-**Duration:** 10 minutes  
-**Status:** ✅ Completed
+> **Role Play 3** — Common Attack Types  
+> **Role:** Venkat Nishit — Security Operations Manager  
+> **Incident Response Strategist:** Jennifer
 
 ---
 
