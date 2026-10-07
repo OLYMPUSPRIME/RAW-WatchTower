@@ -55,97 +55,145 @@ As the Security Manager, Venkat is responsible for evaluating physical-security 
 
 # 🎬 Role Play Conversation
 
-## 🗣️ Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Security%20Strategist-ff69b4?style=for-the-badge)
 
-> **“Let’s test your thinking — if an attacker gets past the front door, what specific cybersecurity risks immediately become possible?”**
+### 👩‍💼 Jennifer — Security Strategist
 
-## 👨‍💻 Venkat Nishit
+> Let’s test your thinking — if an attacker gets past the front door, what specific cybersecurity risks immediately become possible?
 
-If an attacker gets past the front door, they gain **physical access to the organization's internal environment**, which can create several immediate cybersecurity risks.
+<div align="right">
 
-They may gain unauthorized access to restricted areas, computers, servers, network equipment, and sensitive information. They could also tamper with hardware, steal data, connect unauthorized devices, gather information about the environment, or attempt to move into more restricted areas through tailgating or social engineering.
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Manager-007ec6?style=for-the-badge)
 
-The key point is that getting past the front door does not automatically mean the attacker has compromised the network, but it **removes an important security boundary and creates new opportunities to attack both physical and digital assets**.
+### 👨‍💻 Venkat Nishit — Security Manager
 
+> If an attacker gets past the front door, they gain physical access to the organization's internal environment, which can create several immediate cybersecurity risks.
+>
+> They may gain unauthorized access to restricted areas, computers, servers, network equipment, and sensitive information. They could also tamper with hardware, steal data, connect unauthorized devices, gather information about the environment, or attempt to move into more restricted areas through tailgating or social engineering.
+>
+> Getting past the front door does not automatically mean the attacker has compromised the network, but it removes an important security boundary and creates new opportunities to attack both physical and digital assets.
+>
 > 🛡️ **Physical access can become a stepping stone to cyber compromise.**
 
----
-
-## 🗣️ Jennifer
-
-> **“Exactly! You’ve really broken this down nicely. Physical access opens the door to a whole new world of cyber and physical risks. Think about it this way: once they’re inside, they could bypass firewalls or encryption by directly accessing the hardware. That’s why physical security isn’t just about locks—it’s about protecting the digital fortress too. What do you think is the most vulnerable point in your current setup?”**
-
-## 👨‍💻 Venkat Nishit
-
-The most vulnerable point in our current setup is **uncontrolled physical access to critical areas, especially the server room and server racks**.
-
-The audit has identified several weaknesses, including **tailgating, unlocked server racks, visible IT signage, and improper disposal of sensitive documents**.
-
-I would prioritize securing the server room with **restricted badge access, anti-tailgating controls, locked server racks, access logging, monitoring, and employee security awareness**.
-
-By strengthening these physical controls, we can reduce the opportunity for an attacker to directly access or tamper with our critical infrastructure.
+</div>
 
 ---
 
-## 🗣️ Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Security%20Strategist-ff69b4?style=for-the-badge)
 
-> **“Spot on! You’ve nailed the key vulnerabilities and the right priorities. Securing the server room with badge access and anti-tailgating measures will really tighten control over who gets in—and locked racks add another layer of protection. Access logging and monitoring give you visibility, while employee awareness addresses behaviors like tailgating. Now, about those documents—what steps are you considering to tackle improper disposal?”**
+### 👩‍💼 Jennifer — Security Strategist
 
-## 👨‍💻 Venkat Nishit
+> Exactly! You’ve really broken this down nicely. Physical access opens the door to a whole new world of cyber and physical risks. Think about it this way: once they’re inside, they could bypass firewalls or encryption by directly accessing the hardware. That’s why physical security isn’t just about locks—it’s about protecting the digital fortress too. What do you think is the most vulnerable point in your current setup?
 
-We should implement a **secure document disposal policy**. Sensitive documents should never be thrown into regular dumpsters.
+<div align="right">
 
-I would introduce **secure shredding or approved document-destruction services**, clearly labeled secure-disposal bins, and procedures for collecting and destroying sensitive documents.
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Manager-007ec6?style=for-the-badge)
 
-We should also provide **employee security-awareness training** so everyone understands what information must be securely disposed of and conduct regular audits to ensure the policy is followed.
+### 👨‍💻 Venkat Nishit — Security Manager
 
----
+> The most vulnerable point in our current setup is uncontrolled physical access to critical areas, especially the server room and server racks.
+>
+> The audit has identified several weaknesses, including **tailgating, unlocked server racks, visible IT signage, and improper disposal of sensitive documents**.
+>
+> I would prioritize securing the server room with **restricted badge access, anti-tailgating controls, locked server racks, access logging, monitoring, and employee security awareness**.
+>
+> By strengthening these physical controls, we can reduce the opportunity for an attacker to directly access or tamper with our critical infrastructure.
 
-## 🗣️ Jennifer
-
-> **“That’s a solid plan! Secure shredding and clearly labeled bins are great practical steps. Pairing that with training ensures employees know the ‘why’ behind the policy, which is just as important as the ‘how.’ Regular audits will keep everyone on their toes. This approach really minimizes the risk of sensitive info ending up in the wrong hands. Out of curiosity, how would you handle the IT signage issue in the server closet?”**
-
-## 👨‍💻 Venkat Nishit
-
-I would remove the **“IT Equipment”** label because it unnecessarily identifies the location of sensitive infrastructure.
-
-Instead, I would use **neutral, non-descriptive signage** while still maintaining proper access controls. The server closet should have restricted badge access, locked racks, access logging, and monitoring.
-
-The goal is to **avoid advertising the location of critical infrastructure without relying on concealment as the primary security control**.
+</div>
 
 ---
 
-## 🗣️ Jennifer
+![Jennifer](https://img.shields.io/badge/Jennifer-Security%20Strategist-ff69b4?style=for-the-badge)
 
-> **“That’s absolutely the right call! Neutral signage keeps things low-profile without compromising security. You’re combining subtle deterrence with strong access controls, which is exactly how layered security should work. It’s all about not making your critical areas an obvious target. Now, if leadership thinks cybersecurity is just firewalls and antivirus, how would you explain the importance of physical security to them?”**
+### 👩‍💼 Jennifer — Security Strategist
 
-## 👨‍💻 Venkat Nishit
+> Spot on! You’ve nailed the key vulnerabilities and the right priorities. Securing the server room with badge access and anti-tailgating measures will really tighten control over who gets in—and locked racks add another layer of protection. Access logging and monitoring give you visibility, while employee awareness addresses behaviors like tailgating. Now, about those documents—what steps are you considering to tackle improper disposal?
 
-I would explain to leadership that **physical security is a foundational part of cybersecurity**. Firewalls and antivirus protect systems digitally, but they cannot fully protect an organization if an attacker can physically access the building, servers, network equipment, or sensitive information.
+<div align="right">
 
-Physical access could allow an attacker to **tamper with hardware, steal data, connect unauthorized devices, or gain information that supports further cyber attacks**.
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Manager-007ec6?style=for-the-badge)
 
-Therefore, we need a **layered security approach** combining physical controls such as badge access, locked server racks, access logging, monitoring, secure disposal, and employee awareness with our existing cybersecurity controls.
+### 👨‍💻 Venkat Nishit — Security Manager
 
-**Cybersecurity protects the digital environment, while physical security protects the infrastructure that makes that digital environment possible.**
+> We should implement a **secure document disposal policy**. Sensitive documents should never be thrown into regular dumpsters.
+>
+> I would introduce **secure shredding or approved document-destruction services**, clearly labeled secure-disposal bins, and procedures for collecting and destroying sensitive documents.
+>
+> We should also provide **employee security-awareness training** so everyone understands what information must be securely disposed of and conduct regular audits to ensure the policy is followed.
 
----
-
-## 🗣️ Jennifer
-
-> **“Perfectly said! That’s exactly the message leadership needs to hear. Physical security and cybersecurity aren’t separate—they’re two sides of the same coin. Without physical protections, even the best digital defenses can crumble. You’re showing a clear understanding of how to integrate these layers, and that’s the key to a strong, resilient security posture. I think you’re on the right track to making some big improvements!”**
-
-## 👨‍💻 Venkat Nishit
-
-Thank you, Jennifer. I agree that physical security and cybersecurity must work together as part of a layered defense strategy. I’ll focus on strengthening physical access controls, protecting critical infrastructure, improving secure disposal practices, and increasing employee awareness to build a stronger and more resilient security posture.
+</div>
 
 ---
 
-## 🗣️ Jennifer — Closing
+![Jennifer](https://img.shields.io/badge/Jennifer-Security%20Strategist-ff69b4?style=for-the-badge)
 
-> **“You’ve got it! Your plan is practical, strategic, and exactly what’s needed to bridge the gap between physical and digital security. With these improvements, you’ll drastically reduce vulnerabilities and create a much more secure environment. It’s been great discussing this with you—your approach is spot-on. Best of luck with implementing these changes, and remember, every layer you add strengthens the overall defense. You’re on the right path!”**
+### 👩‍💼 Jennifer — Security Strategist
+
+> That’s a solid plan! Secure shredding and clearly labeled bins are great practical steps. Pairing that with training ensures employees know the ‘why’ behind the policy, which is just as important as the ‘how.’ Regular audits will keep everyone on their toes. This approach really minimizes the risk of sensitive info ending up in the wrong hands. Out of curiosity, how would you handle the IT signage issue in the server closet?
+
+<div align="right">
+
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Manager-007ec6?style=for-the-badge)
+
+### 👨‍💻 Venkat Nishit — Security Manager
+
+> I would remove the **“IT Equipment”** label because it unnecessarily identifies the location of sensitive infrastructure.
+>
+> Instead, I would use **neutral, non-descriptive signage** while still maintaining proper access controls. The server closet should have restricted badge access, locked racks, access logging, and monitoring.
+>
+> The goal is to **avoid advertising the location of critical infrastructure without relying on concealment as the primary security control**.
+
+</div>
 
 ---
+
+![Jennifer](https://img.shields.io/badge/Jennifer-Security%20Strategist-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Security Strategist
+
+> That’s absolutely the right call! Neutral signage keeps things low-profile without compromising security. You’re combining subtle deterrence with strong access controls, which is exactly how layered security should work. It’s all about not making your critical areas an obvious target. Now, if leadership thinks cybersecurity is just firewalls and antivirus, how would you explain the importance of physical security to them?
+
+<div align="right">
+
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Manager-007ec6?style=for-the-badge)
+
+### 👨‍💻 Venkat Nishit — Security Manager
+
+> I would explain to leadership that **physical security is a foundational part of cybersecurity**. Firewalls and antivirus protect systems digitally, but they cannot fully protect an organization if an attacker can physically access the building, servers, network equipment, or sensitive information.
+>
+> Physical access could allow an attacker to **tamper with hardware, steal data, connect unauthorized devices, or gain information that supports further cyber attacks**.
+>
+> Therefore, we need a **layered security approach** combining physical controls such as badge access, locked server racks, access logging, monitoring, secure disposal, and employee awareness with our existing cybersecurity controls.
+>
+> **Cybersecurity protects the digital environment, while physical security protects the infrastructure that makes that digital environment possible.**
+
+</div>
+
+---
+
+![Jennifer](https://img.shields.io/badge/Jennifer-Security%20Strategist-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Security Strategist
+
+> Perfectly said! That’s exactly the message leadership needs to hear. Physical security and cybersecurity aren’t separate—they’re two sides of the same coin. Without physical protections, even the best digital defenses can crumble. You’re showing a clear understanding of how to integrate these layers, and that’s the key to a strong, resilient security posture. I think you’re on the right track to making some big improvements!
+
+<div align="right">
+
+![Venkat%20Nishit](https://img.shields.io/badge/Venkat%20Nishit-Security%20Manager-007ec6?style=for-the-badge)
+
+### 👨‍💻 Venkat Nishit — Security Manager
+
+> Thank you, Jennifer. I agree that physical security and cybersecurity must work together as part of a layered defense strategy. I’ll focus on strengthening physical access controls, protecting critical infrastructure, improving secure disposal practices, and increasing employee awareness to build a stronger and more resilient security posture.
+
+</div>
+
+---
+
+![Jennifer](https://img.shields.io/badge/Jennifer-Security%20Strategist-ff69b4?style=for-the-badge)
+
+### 👩‍💼 Jennifer — Security Strategist
+
+> You’ve got it! Your plan is practical, strategic, and exactly what’s needed to bridge the gap between physical and digital security. With these improvements, you’ll drastically reduce vulnerabilities and create a much more secure environment. It’s been great discussing this with you—your approach is spot-on. Best of luck with implementing these changes, and remember, every layer you add strengthens the overall defense. You’re on the right path!
 
 ## 🛡️ Physical Security Control Summary
 
